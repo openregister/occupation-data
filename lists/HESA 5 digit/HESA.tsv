@@ -1,0 +1,865 @@
+code	name
+1	Managers, directors and senior officials
+2	Professional occupations
+3	Associate professional and technical occupations
+4	Administrative and secretarial occupations
+5	Skilled trades occupations
+6	Caring, leisure and other service occupations
+7	Sales and customer service occupations
+8	Process, plant and machine operatives
+9	Elementary occupations
+11	Corporate managers and directors
+12	Other managers and proprietors
+21	Science, research, engineering and technology professionals
+22	Health professionals
+23	Teaching and educational professionals
+24	Business, media and public service professionals
+31	Science, engineering and technology associate professionals
+32	Health and social care associate professionals
+33	Protective service occupations
+34	Culture, media and sports occupations
+35	Business and public service associate professionals
+41	Administrative occupations
+42	Secretarial and related occupations
+51	Skilled agricultural and related trades
+52	Skilled metal, electrical and electronic trades
+53	Skilled construction and building trades
+54	Textiles, printing and other skilled trades
+61	Caring personal service occupations
+62	Leisure, travel and related personal service occupations
+71	Sales occupations
+72	Customer service occupations
+81	Process, plant and machine operatives
+82	Transport and mobile machine drivers and operatives
+91	Elementary trades and related occupations
+92	Elementary administration and service occupations
+111	Chief executives and senior officials
+112	Production managers and directors
+113	Functional managers and directors
+115	Financial institution managers and directors
+116	Managers and directors in transport and logistics
+117	Senior officers in protective services
+118	Health and social services managers and directors
+119	Managers and directors in retail and wholesale
+121	Managers and proprietors in agriculture related services
+122	Managers and proprietors in hospitality and leisure services
+124	Managers and proprietors in health and care services
+125	Managers and proprietors in other services
+211	Natural and social science professionals
+212	Engineering professionals
+213	Information technology and telecommunications professionals
+214	Conservation and environment professionals
+215	Research and development managers
+221	Health professionals
+222	Therapy professionals
+223	Nursing and midwifery professionals
+231	Teaching and educational professionals
+241	Legal professionals
+242	Business, research and administrative professionals
+243	Architects, town planners and surveyors
+244	Welfare professionals
+245	Librarians and related professionals
+246	Quality and regulatory professionals
+247	Media professionals
+311	Science, engineering and production technicians
+312	Draughtspersons and related architectural technicians
+313	Information technology technicians
+321	Health associate professionals
+323	Welfare and housing associate professionals
+331	Protective service occupations
+341	Artistic, literary and media occupations
+342	Design occupations
+344	Sports and fitness occupations
+351	Transport associate professionals
+352	Legal associate professionals
+353	Business, finance and related associate professionals
+354	Sales, marketing and related associate professionals
+355	Conservation and environmental associate professionals
+356	Public services and other associate professionals
+411	Administrative occupations: government and related organisations
+412	Administrative occupations: finance
+413	Administrative occupations: records
+415	Other administrative occupations
+416	Administrative occupations: office managers and supervisors
+421	Secretarial and related occupations
+511	Agricultural and related trades
+521	Metal forming, welding and related trades
+522	Metal machining, fitting and instrument making trades
+523	Vehicle trades
+524	Electrical and electronic trades
+525	Skilled metal, electrical and electronic trades supervisors
+531	Construction and building trades
+532	Building finishing trades
+533	Construction and building trades supervisors
+541	Textiles and garments trades
+542	Printing trades
+543	Food preparation and hospitality trades
+544	Other skilled trades
+612	Childcare and related personal services
+613	Animal care and control services
+614	Caring personal services
+621	Leisure and travel services
+622	Hairdressers and related services
+623	Housekeeping and related services
+624	Cleaning and housekeeping managers and supervisors
+711	Sales assistants and retail cashiers
+712	Sales related occupations
+713	Sales supervisors
+721	Customer service occupations
+722	Customer service managers and supervisors
+811	Process operatives
+812	Plant and machine operatives
+813	Assemblers and routine operatives
+814	Construction operatives
+821	Road transport drivers
+822	Mobile machine drivers and operatives
+823	Other drivers and transport operatives
+911	Elementary agricultural occupations
+912	Elementary construction occupations
+913	Elementary process plant occupations
+921	Elementary administration occupations
+923	Elementary cleaning occupations
+924	Elementary security occupations
+925	Elementary sales occupations
+926	Elementary storage occupations
+927	Other elementary services occupations
+11150	Chief executives and senior officials
+11160	Elected officers and representatives
+11210	Production managers and directors in manufacturing
+11220	Production managers and directors in construction
+11230	Production managers and directors in mining and energy
+11311	Finance managers and directors
+11312	Investment/ merchant bankers
+11313	Chartered company secretaries, treasurers, company registrars
+11319	Financial managers and directors n.e.c.
+11320	Marketing and sales directors
+11330	Purchasing managers and directors
+11340	Advertising and public relations directors
+11350	Human resource managers and directors
+11360	Information technology and telecommunications directors
+11390	Functional managers and directors n.e.c.
+11500	Financial institution managers and directors
+11610	Managers and directors in transport and distribution
+11620	Managers and directors in storage and warehousing
+11710	Officers in armed forces
+11720	Senior police officers
+11730	Senior officers in fire, ambulance, prison and related services
+11810	Health services and public health managers and directors
+11840	Social services managers and directors
+11900	Managers and directors in retail and wholesale
+12110	Managers and proprietors in agriculture and horticulture
+12130	Managers and proprietors in forestry, fishing and related services
+12210	Hotel and accommodation managers and proprietors
+12230	Restaurant and catering establishment managers and proprietors
+12240	Publicans and managers of licensed premises
+12250	Leisure and sports managers
+12260	Travel agency managers and proprietors
+12410	Health care practice managers
+12420	Residential, day and domiciliary care managers and proprietors
+12510	Property, housing and estate managers
+12520	Garage managers and proprietors
+12530	Hairdressing and beauty salon managers and proprietors
+12540	Shopkeepers and proprietors - wholesale and retail
+12550	Waste disposal and environmental services managers
+12590	Managers and proprietors in other services n.e.c.
+21111	Chemists
+21112	Research/ development chemists
+21113	Analytical chemists
+21119	Chemical scientists n.e.c.
+21121	Biochemists, medical scientists
+21122	Biologists
+21123	Bacteriologists, microbiologists, etc.
+21124	Botanists
+21125	Pathologists
+21126	Agricultural scientists
+21127	Physiologists
+21128	Pharmacologists
+21129	Biological scientists and biochemists n.e.c.
+21131	Physicists
+21132	Geophysicists
+21133	Geologists, mineralogists, etc.
+21134	Meteorologists
+21135	Astronomers
+21139	Physical scientists n.e.c.
+21140	Social and humanities scientists
+21191	University researchers, unspecified discipline
+21192	Sports scientists
+21199	Natural and social science professionals n.e.c.
+21210	Civil engineers
+21220	Mechanical engineers
+21230	Electrical engineers
+21240	Electronics engineers
+21260	Design and development engineers
+21270	Production and process engineers
+21290	Engineering professionals n.e.c.
+21330	IT specialist managers
+21340	IT project and programme managers
+21350	IT business analysts, architects and systems designers
+21360	Programmers and software development professionals
+21370	Web design and development professionals
+21390	Information technology and telecommunications professionals n.e.c.
+21410	Conservation professionals
+21420	Environment professionals
+21500	Research and development managers
+22110	Medical practitioners
+22121	Psychologists
+22122	Education psychologists
+22123	Clinical psychologists
+22124	Occupational psychologists
+22129	Psychology assistants
+22130	Pharmacists
+22140	Ophthalmic opticians
+22150	Dental practitioners
+22160	Veterinarians
+22170	Medical radiographers
+22180	Podiatrists
+22190	Health professionals n.e.c.
+22210	Physiotherapists
+22220	Occupational therapists
+22230	Speech and language therapists
+22290	Therapy professionals n.e.c.
+22310	Nurses
+22320	Midwives
+23110	Higher education teaching professionals
+23120	Further education teaching professionals
+23140	Secondary education teaching professionals
+23150	Primary and nursery education teaching professionals
+23160	Special needs education teaching professionals
+23170	Senior professionals of educational establishments
+23180	Education advisers and school inspectors
+23190	Teaching and other educational professionals n.e.c.
+24120	Barristers and judges
+24130	Solicitors
+24190	Legal professionals n.e.c.
+24210	Chartered and certified accountants
+24230	Management consultants and business analysts
+24240	Business and financial project management professionals
+24251	Actuaries
+24252	Economists
+24253	Statisticians
+24254	Mathematicians
+24259	Actuaries, economists and statisticians n.e.c.
+24261	Researchers (media)
+24262	Researchers (national security, police)
+24269	Researchers n.e.c.
+24290	Business, research and administrative professionals n.e.c.
+24310	Architects
+24320	Town planning officers
+24330	Quantity surveyors
+24340	Chartered surveyors
+24350	Chartered architectural technologists
+24360	Construction project managers and related professionals
+24420	Social workers
+24430	Probation officers
+24440	Clergy
+24490	Welfare professionals n.e.c.
+24510	Librarians
+24520	Archivists and curators
+24610	Quality control and planning engineers
+24620	Quality assurance and regulatory professionals
+24630	Environmental health professionals
+24710	Journalists, newspaper and periodical editors
+24720	Public relations professionals
+24730	Advertising accounts managers and creative directors
+31110	Laboratory technicians
+31120	Electrical and electronics technicians
+31130	Engineering technicians
+31140	Building and civil engineering technicians
+31150	Quality assurance technicians
+31160	Planning, process and production technicians
+31190	Science, engineering and production technicians n.e.c.
+31210	Architectural and town planning technicians
+31220	Draughtspersons
+31310	IT operations technicians
+31320	IT user support technicians
+32130	Paramedics
+32160	Dispensing opticians
+32170	Pharmaceutical technicians
+32180	Medical and dental technicians
+32190	Health associate professionals n.e.c.
+32310	Youth and community workers
+32330	Child and early years officers
+32340	Housing officers
+32350	Counsellors
+32390	Welfare and housing associate professionals n.e.c.
+33110	NCOs and other ranks
+33120	Police officers (sergeant and below)
+33130	Fire service officers (watch manager and below)
+33140	Prison service officers (below principal officer)
+33150	Police community support officers
+33190	Protective service associate professionals n.e.c.
+34110	Artists
+34120	Authors, writers and translators
+34130	Actors, entertainers and presenters
+34140	Dancers and choreographers
+34150	Musicians
+34160	Arts officers, producers and directors
+34170	Photographers, audio-visual and broadcasting equipment operators
+34211	Graphic designers
+34212	Commercial artists
+34213	Exhibition, multimedia designers
+34214	Desktop publishing assistants and operators
+34219	Graphic design copyists and setters-out
+34221	Interior decoration designers
+34222	Set designers (stage etc.)
+34223	Industrial designers
+34224	Textile designers
+34225	Clothing designers
+34226	Clothing advisers, consultants
+34227	Furniture designers
+34228	Jewellery designers
+34229	Product, clothing and related designers n.e.c.
+34410	Sports players
+34420	Sports coaches, instructors and officials
+34430	Fitness instructors
+35110	Air traffic controllers
+35120	Aircraft pilots and flight engineers
+35130	Ship and hovercraft officers
+35200	Legal associate professionals
+35310	Estimators, valuers and assessors
+35320	Brokers
+35330	Insurance underwriters
+35340	Finance and investment analysts and advisers
+35350	Taxation experts
+35360	Importers and exporters
+35370	Financial and accounting technicians
+35380	Financial accounts managers
+35390	Business and related associate professionals n.e.c.
+35410	Buyers and procurement officers
+35420	Business sales executives
+35430	Marketing associate professionals
+35440	Estate agents and auctioneers
+35450	Sales accounts and business development managers
+35460	Conference and exhibition managers and organisers
+35500	Conservation and environmental associate professionals
+35610	Public services associate professionals
+35620	Human resources and industrial relations officers
+35630	Vocational and industrial trainers and instructors
+35640	Careers advisers and vocational guidance specialists
+35650	Inspectors of standards and regulations
+35670	Health and safety officers
+41120	National government administrative occupations
+41130	Local government administrative occupations
+41140	Officers of non-governmental organisations
+41210	Credit controllers
+41220	Book-keepers, payroll managers and wages clerks
+41230	Bank and post office clerks
+41240	Finance officers
+41290	Financial administrative occupations n.e.c.
+41310	Records clerks and assistants
+41320	Pensions and insurance clerks and assistants
+41330	Stock control clerks and assistants
+41340	Transport and distribution clerks and assistants
+41350	Library clerks and assistants
+41380	Human resources administrative occupations
+41510	Sales administrators
+41590	Other administrative occupations n.e.c.
+41610	Office managers
+41620	Office supervisors
+42110	Medical secretaries
+42120	Legal secretaries
+42130	School secretaries
+42140	Company secretaries
+42150	Personal assistants and other secretaries
+42160	Receptionists
+42170	Typists and related keyboard occupations
+51110	Farmers
+51120	Horticultural trades
+51130	Gardeners and landscape gardeners
+51140	Groundsmen and greenkeepers
+51190	Agricultural and fishing trades n.e.c.
+52110	Smiths and forge workers
+52120	Moulders, core makers and die casters
+52130	Sheet metal workers
+52140	Metal plate workers and riveters
+52150	Welding trades
+52160	Pipe fitters
+52210	Metal machining setters and setter-operators
+52220	Tool makers, tool fitters and markers-out
+52230	Metal working production and maintenance fitters
+52240	Precision instrument makers and repairers
+52250	Air-conditioning and refrigeration engineers
+52310	Vehicle technicians, mechanics and electricians
+52320	Vehicle body builders and repairers
+52340	Vehicle paint technicians
+52350	Aircraft maintenance and related trades
+52360	Boat and ship builders and repairers
+52370	Rail and rolling stock builders and repairers
+52410	Electricians and electrical fitters
+52420	Telecommunications engineers
+52440	TV, video and audio engineers
+52450	IT engineers
+52490	Electrical and electronic trades n.e.c.
+52500	Skilled metal, electrical and electronic trades supervisors
+53110	Steel erectors
+53120	Bricklayers and masons
+53130	Roofers, roof tilers and slaters
+53140	Plumbers and heating and ventilating engineers
+53150	Carpenters and joiners
+53160	Glaziers, window fabricators and fitters
+53190	Construction and building trades n.e.c.
+53210	Plasterers
+53220	Floorers and wall tilers
+53230	Painters and decorators
+53300	Construction and building trades supervisors
+54110	Weavers and knitters
+54120	Upholsterers
+54130	Footwear and leather working trades
+54140	Tailors and dressmakers
+54190	Textiles, garments and related trades n.e.c.
+54210	Pre-press technicians
+54220	Printers
+54230	Print finishing and binding workers
+54310	Butchers
+54320	Bakers and flour confectioners
+54330	Fishmongers and poultry dressers
+54340	Chefs
+54350	Cooks
+54360	Catering and bar managers
+54410	Glass and ceramics makers, decorators and finishers
+54420	Furniture makers and other craft woodworkers
+54430	Florists
+54490	Other skilled trades n.e.c.
+61210	Nursery nurses and assistants
+61220	Childminders and related occupations
+61230	Playworkers
+61250	Teaching assistants
+61260	Educational support assistants
+61310	Veterinary nurses
+61320	Pest control officers
+61390	Animal care services occupations n.e.c.
+61410	Nursing auxiliaries and assistants
+61420	Ambulance staff (excluding paramedics)
+61430	Dental nurses
+61440	Houseparents and residential wardens
+61450	Care workers and home carers
+61460	Senior care workers
+61470	Care escorts
+61480	Undertakers, mortuary and crematorium assistants
+62110	Sports and leisure assistants
+62120	Travel agents
+62140	Air travel assistants
+62150	Rail travel assistants
+62190	Leisure and travel service occupations n.e.c.
+62210	Hairdressers and barbers
+62220	Beauticians and related occupations
+62310	Housekeepers and related occupations
+62320	Caretakers
+62400	Cleaning and housekeeping managers and supervisors
+71110	Sales and retail assistants
+71120	Retail cashiers and check-out operators
+71130	Telephone salespersons
+71140	Pharmacy and other dispensing assistants
+71150	Vehicle and parts salespersons and advisers
+71210	Collector salespersons and credit agents
+71220	Debt, rent and other cash collectors
+71230	Roundspersons and van salespersons
+71240	Market and street traders and assistants
+71250	Merchandisers and window dressers
+71290	Sales related occupations n.e.c.
+71300	Sales supervisors
+72110	Call and contact centre occupations
+72130	Telephonists
+72140	Communication operators
+72150	Market research interviewers
+72190	Customer service occupations n.e.c.
+72200	Customer service managers and supervisors
+81110	Food, drink and tobacco process operatives
+81120	Glass and ceramics process operatives
+81130	Textile process operatives
+81140	Chemical and related process operatives
+81150	Rubber process operatives
+81160	Plastics process operatives
+81170	Metal making and treating process operatives
+81180	Electroplaters
+81190	Process operatives n.e.c.
+81210	Paper and wood machine operatives
+81220	Coal mine operatives
+81230	Quarry workers and related operatives
+81240	Energy plant operatives
+81250	Metal working machine operatives
+81260	Water and sewerage plant operatives
+81270	Printing machine assistants
+81290	Plant and machine operatives n.e.c.
+81310	Assemblers (electrical and electronic products)
+81320	Assemblers (vehicles and metal goods)
+81330	Routine inspectors and testers
+81340	Weighers, graders and sorters
+81350	Tyre, exhaust and windscreen fitters
+81370	Sewing machinists
+81390	Assemblers and routine operatives n.e.c.
+81410	Scaffolders, stagers and riggers
+81420	Road construction operatives
+81430	Rail construction and maintenance operatives
+81490	Construction operatives n.e.c.
+82110	Large goods vehicle drivers
+82120	Van drivers
+82130	Bus and coach drivers
+82140	Taxi and cab drivers and chauffeurs
+82150	Driving instructors
+82210	Crane drivers
+82220	Fork-lift truck drivers
+82230	Agricultural machinery drivers
+82290	Mobile machine drivers and operatives n.e.c.
+82310	Train and tram drivers
+82320	Marine and waterways transport operatives
+82330	Air transport operatives
+82340	Rail transport operatives
+82390	Other drivers and transport operatives n.e.c.
+91110	Farm workers
+91120	Forestry workers
+91190	Fishing and other elementary agriculture occupations n.e.c.
+91200	Elementary construction occupations
+91320	Industrial cleaning process occupations
+91340	Packers, bottlers, canners and fillers
+91390	Elementary process plant occupations n.e.c.
+92110	Postal workers, mail sorters, messengers and couriers
+92190	Elementary administration occupations n.e.c.
+92310	Window cleaners
+92320	Street cleaners
+92330	Cleaners and domestics
+92340	Launderers, dry cleaners and pressers
+92350	Refuse and salvage occupations
+92360	Vehicle valeters and cleaners
+92390	Elementary cleaning occupations n.e.c.
+92410	Security guards and related occupations
+92420	Parking and civil enforcement occupations
+92440	School midday and crossing patrol occupations
+92490	Elementary security occupations n.e.c.
+92510	Shelf fillers
+92590	Elementary sales occupations n.e.c.
+92600	Elementary storage occupations
+92710	Hospital porters
+92720	Kitchen and catering assistants
+92730	Waiters and waitresses
+92740	Bar staff
+92750	Leisure and theme park attendants
+92790	Other elementary services occupations n.e.c.
+3854	Street musicians
+3860	Photographers, camera, sound and video equipment operators
+3861	Photographers
+3862	TV and film camera operators
+3863	Audio-visual aid operators
+3864	Projectionists
+3865	Video, telecine and film recorder operators
+3866	Sound recordists, technicians, assistants
+3870	Professional athletes, sports officials
+3871	Professional sportsmen, players n.e.c.
+3872	Sports trainers, coaches
+3900	Information officers and technical librarians
+3901	Information, research officers/scientists
+3902	Intelligence officers (government)
+3903	Technical and assistant librarians
+3910	Vocational and industrial trainers
+3920	Careers advisers and vocational guidance specialists
+3921	Youth and local authority careers advisers
+3922	University and higher education careers advisers
+3930	Driving instructors (not hgv)
+3931	Principals of driving schools
+3932	Driving instructors
+3940	Inspectors of factories, utilities and trading standards
+3941	Factory inspectors (HMFI)
+3942	Local government inspectors
+3950	Other statutory and similar inspectors n.e.c.
+3951	Driving and traffic examiners
+3952	Water, river inspectors
+3953	Water Bailiffs, fishery officers
+3954	Ships surveyors, inspectors
+3955	RSPCA inspectors
+3956	Mining inspectors
+3960	Occupational hygienists and safety officers (health and safety)
+3961	Industrial safety officers
+3962	Occupational hygienists
+3963	Road safety officers
+3990	Other associate professional and technical occupations n.e.c.
+3991	Committee clerks, secretaries
+3992	Researchers etc. n.e.c. (media & government)
+3993	Appraisers
+3994	Trade mark agents
+3995	Materials planners
+3996	Inventors
+3997	Advisers (marine, tariff, transport)
+3998	Environmental officers
+4000	Civil Service administrative officers and assistants
+4001	Government clerks n.e.c.
+4002	Employment and social security clerks (government)
+4003	Taxation and customs clerks
+4010	Local government clerical officers and assistants
+4100	Accounts and wages clerks, book-keepers, other financial clerks
+4110	Counter clerks and cashiers
+4120	Debt, rent and other cash collectors
+4200	Filing, computer and other records clerks (inc. legal conveyancing)
+4210	Library assistants/clerks
+4300	Clerks (n.o.s.)
+4400	Stores, despatch and production control clerks
+4410	Storekeepers, warehousemen/women
+4500	Medical secretaries
+4510	Legal secretaries
+4520	Typists and work processor operators
+4521	Shorthand typists
+4522	Typists
+4523	Word processor operators
+4590	Other secretaries, personal assistants, typists, word processor operators n.e.c.
+4591	Secretaries
+4592	Personal assistants
+4593	Secretary-typists
+4600	Receptionists
+4610	Receptionists/telephonist
+4620	Telephone operators
+4630	Radio and telegraph operators, other office communication system operators
+4900	Computer operators, data processing operators, other office machine operators
+4901	Office machine operators
+4902	Computer operators
+4910	Tracers, drawing officer assistants
+5000	Bricklayers, masons
+5010	Roofers, slaters, tilers, sheeters, cladders
+5020	Plasterers
+5030	Glaziers
+5040	Builders, building contractors
+5050	Scaffolders, stagers, steeplejacks, riggers
+5060	Floorers, floor coverers, carpet fitters and planners, floor and wall tile fitters
+5070	Painters and decorators
+5090	Other construction trades n.e.c.
+5100	Centre, capstan, turret and other lathe setters and setter-operators
+5110	Boring and drilling machine setters and setter-operators
+5120	Grinding machine setters and setter-operators
+5130	Milling machine setters and setter-operators
+5140	Press setters and setter-operators
+5150	Tool makers, tool fitters, markers out
+5160	Metal working production and maintenance fitters
+5170	Precision instrument makers and repairers
+5180	Goldsmiths, silversmiths, precious stone workers
+5190	Other machine tool setters and setter-operators
+5200	Production fitters (electrical/electronic)
+5210	Electricians, electrical maintenance fitters
+5220	Electrical engineers (not professional)
+5230	Telephone fitters
+5240	Cable jointers, lines repairers
+5250	Radio, TV and video engineers
+5260	Computer engineers, installation and maintenance
+5290	Other electrical/electronic trades n.e.c.
+5300	Smiths and forge workers
+5310	Moulders, core makers, die casters
+5320	Plumbers, heating and ventilating engineers and related trades
+5330	Sheet metal workers
+5340	Metal plate workers, shipwrights, riveters
+5350	Steel erectors
+5360	Barbenders, steel fixers
+5370	Welding trades
+5400	Motor mechanics, auto engineers (inc. road patrol engineers)
+5410	Coach and vehicle body builders
+5420	Vehicle body repairers, panel beaters
+5430	Auto electricians
+5440	Tyre and exhaust fitters
+5500	Weavers
+5510	Knitters
+5520	Warp preparers, bleachers, dyers and finishers
+5530	Sewing machinists, menders, darners and embroiderers
+5540	Coach trimmers, upholsterers and mattress makers
+5550	Shoe repairers, leather cutters and sewers, footwear lasters, makers and
+5560	Tailors, dressmakers
+5570	Clothing cutters, milliners, furriers
+5590	Other textiles, garments and related trades n.e.c.
+5600	Originators, compositors and print preparers
+5610	Printers
+5620	Book binders and print finishers
+5630	Screen printers
+5690	Other printing and related trades n.e.c.
+5700	Carpenters and joiners
+5710	Cabinet makers
+5720	Case and box makers
+5730	Pattern makers (moulds)
+5790	Other woodworking trades n.e.c.
+5800	Bakers, flour confectioners
+5810	Butchers, meat cutters
+5820	Fishmongers, poultry dressers
+5900	Glass product and ceramics makers
+5910	Glass product and ceramics finishers and decorators
+5920	Dental technicians
+5930	Musical instrument makers, piano tuners
+5931	Musical instrument makers and repairers
+5932	Musical instrument tuners
+5940	Gardeners, groundsmen/women
+5950	Horticultural trades
+5960	Coach painters, other spray painters
+5970	Face trained coalmining workers, shotfirers and deputies
+5980	Office machinery mechanics
+5990	Other craft and related occupations n.e.c.
+6000	NCOs and other ranks, UK armed forces
+6010	NCOs and other ranks, foreign and commonwealth armed forces
+6100	Police officers (sergeant and below)
+6101	Police officers (civil police)
+6102	Police officers (other statutory forces)
+6110	Fire service officers (leading fire officer and below)
+6120	Prison service officers (below principal officer)
+6121	Prison officers
+6122	Other detention centre officers
+6130	Customs and excise officers, immigration officers (customs: below chief preventive officer; excise: below surveyor)
+6131	Customs and excise officers, preventive officers
+6132	Immigration officers
+6133	VAT officers
+6140	Traffic wardens
+6141	Traffic wardens
+6142	Parking meter attendants
+6150	Security guards and related occupations
+6190	Other security and protective service occupations n.e.c.
+6200	Chefs, cooks
+6210	Waiters, waitresses
+6220	Bar staff
+6300	Travel and flight attendants
+6310	Railway station staff
+6400	Assistant nurses, nursing auxiliaries
+6410	Hospital ward assistants
+6420	Ambulance staff
+6430	Dental nurses
+6440	Care assistants and attendants
+6500	Nursery nurses
+6501	Nursery nurses
+6502	Nursery assistants, wardens, creche attendants
+6510	Playgroup leaders
+6520	Educational assistants
+6590	Other childcare and related occupations n.e.c.
+6600	Hairdressers, barbers
+6610	Beauticians and related occupations
+6700	Domestic housekeepers and related occupations
+6710	Housekeepers (non-domestic)
+6720	Caretakers
+6730	Launderers, dry cleaners, pressers
+6900	Undertakers
+6910	Bookmakers
+6990	Other personal and protective service occupations n.e.c.
+7000	Buyers (retail trade)
+7010	Buyers and purchasing officers (not retail)
+7011	Purchasing officers and buyers n.e.c.
+7012	Buyers (wholesale distribution)
+7013	Buyers (advertising)
+7014	Contracts, supply officers (government)
+7020	Importers and exporters
+7021	Exporters
+7022	Importers
+7030	Air, commodity and ship brokers
+7031	Commodity brokers
+7032	Ship brokers
+7033	Airbrokers
+7100	Technical and wholesale sales representatives
+7101	Sales representatives (wholesale goods)
+7102	Technical sales representatives
+7190	Other sales representatives n.e.c.
+7191	Demonstrators
+7192	Property negotiators
+7193	Auctioneers
+7194	Insurance sales representatives
+7195	Commercial services etc. sales representatives
+7196	Cleaning, security etc. sales representatives
+7197	Transport and haulage sales representatives
+7198	Plant and car hire sales representatives
+7200	Sales assistants
+7210	Retail cash desk and check-out operators
+7220	Petrol pump forecourt attendants
+7300	Collectors salespersons and credit agents
+7310	Roundsmen/women and van salespersons
+7320	Market and street traders and assistants
+7330	Scrap dealers, scrap metal merchants
+7900	Merchandisers
+7910	Window dressers, floral arrangers
+7911	Window dressers
+7912	Floral arrangers
+7920	Telephone salespersons
+8000	Bakery and confectionery process operatives
+8010	Brewery and vinery process operatives
+8020	Tobacco process operatives
+8090	Other food, drink and tobacco process operatives n.e.c.
+8100	Tannery production operatives
+8110	Preparatory fibre processors
+8120	Spinners, doublers, twisters
+8130	Winders, reelers
+8140	Other textiles processing operatives
+8200	Chemical, gas and petroleum process plant operatives
+8210	Paper wood and related process plant operatives
+8220	Cutting and slitting machine operatives (paper products etc)
+8230	Glass and ceramics furnace operatives, kilnsetters
+8240	Rubber process operatives, moulding machine operatives, tyre builders
+8250	Plastic process operatives, moulders and extruders
+8260	Synthetic fibre makers
+8290	Other chemicals, paper, plastics and related process operatives n.e.c.
+8300	Furnace operatives (metal)
+8310	Metal drawers
+8320	Rollers
+8330	Annealers, hardeners, temperers (metal)
+8340	Electroplaters, galvanisers, colour coaters
+8390	Other metal making and treating process operatives n.e.c.
+8400	Machine tool operatives (inc. CNC machine tool operatives)
+8410	Press stamping and automatic machine operatives
+8420	Metal polishers
+8430	Metal dressing operatives
+8440	Shot blasters
+8500	Assemblers/lineworkers (electrical/electronic goods)
+8510	Assemblers/lineworkers (vehicles and other metal goods)
+8590	Other assemblers/lineworkers n.e.c.
+8600	Inspectors, viewers and testers (metal and electrical goods)
+8610	Inspectors, viewers, testers and examiners (other manufactured goods)
+8620	Packers, bottlers, canners, fillers
+8630	Weighers, graders, sorters
+8640	Routine laboratory testers
+8690	Other routine process operatives n.e.c.
+8700	Bus inspectors
+8710	Road transport depot inspectors and related occupations
+8720	Drivers of road goods vehicles
+8730	Bus and coach drivers
+8740	Taxi, cab drivers and chauffeurs
+8750	Bus conductors
+8800	Seafarers (merchant navy); barge, lighter and boat operatives
+8810	Rail transport inspectors, supervisors and guards
+8820	Rail engine drivers and assistants
+8830	Rail signal operatives and crossing keepers
+8840	Shunters and point operatives
+8850	Mechanical plant drivers and operatives (earth moving and civil engineering)
+8860	Crane drivers
+8870	Fork lift and mechanical truck drivers
+8890	Other transport machinery operatives n.e.c.
+8900	Washers, screeners and crushers in mines and quarries
+8910	Printing machine minders and assistants
+8920	Water and sewerage plant attendants
+8930	Electrical energy, boiler and related plant operatives and attendants
+8940	Oilers, greasers, lubricators
+8950	Mains and service pipe layers, pipe joiners
+8960	Construction and related operatives
+8970	Woodworking machine operatives
+8980	Mine (excluding coal) and quarry workers
+8990	Other plant and machine operatives n.e.c.
+9000	Farm workers
+9010	Agricultural machinery drivers and operatives
+9020	All other occupations in farming and related
+9030	Fishing and related workers
+9040	Forestry workers
+9100	Coal mine labourers
+9110	Labourers in foundries
+9120	Labourers in engineering and allied trades
+9130	Mates to metal/electrical and related fitters
+9190	Other labourers in making and processing industries n.e.c.
+9200	Mates to woodworking trades workers
+9210	Mates to building trades workers
+9220	Rail construction and maintenance workers
+9230	Road construction and maintenance workers
+9240	Paviors, kerb layers
+9290	Other building and civil engineering labourers n.e.c.
+9300	Stevedores, dockers
+9310	Goods porters
+9320	Slingers
+9330	Refuse and salvage collectors
+9340	Driver's mates
+9400	Postal workers, mail sorters
+9410	Messengers, couriers
+9500	Hospital porters
+9510	Hotel porters
+9520	Kitchen porters, hands
+9530	Counterhands, catering assistants
+9540	Shelf fillers
+9550	Lift and car park attendants
+9560	Window cleaners
+9570	Road sweepers
+9580	Cleaners, domestics
+9590	Other occupations in sales and services n.e.c.
+9900	All other labourers and related workers
+9990	All others in miscellaneous occupations n.e.c.
+9999	NOT KNOWN
