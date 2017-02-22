@@ -9,7 +9,11 @@ The data is being compiled from existing lists of organisation codes:
 
 | List | Source |
 | :---         |    :--- |
-|[govuk](lists/govuk) |[GOV.UK government organisations](https://www.gov.uk/government/organisations)|
+|[hesa-4](lists/hesa-4) |[HESA 4 digit SOC codes](https://www.hesa.ac.uk/support/documentation/occupational/soc90)|
+|[hesa-5](lists/hesa-5) |[HESA 5 digit codes](https://www.hesa.ac.uk/support/documentation/occupational/soc2010)|
+|[hesa-student](lists/hesa-student) |[HESA student codes](https://www.hesa.ac.uk/collection/c16051/a/soc2000/.html/.html)|
+|[SOC 2010 v5.1](lists/soc-2010-v5.1) |[SOC published codes 2010 v5.1](https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc/soc2010/soc2010volume2thestructureandcodingindex)|
+
 
 This list of lists is by no means comprehensive, and contributions of other lists are appreciated!
 
