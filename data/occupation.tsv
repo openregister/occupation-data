@@ -1,370 +1,494 @@
-occupation	major group	sub-major Group	minor group	Group Title
-1115	1	11	111	Chief executives and senior officials
-1116	1	11	111	Elected officers and representatives
-1121	1	11	112	Production managers and directors in manufacturing
-1122	1	11	112	Production managers and directors in construction
-1123	1	11	112	Production managers and directors in mining and energy
-1131	1	11	113	Financial managers and directors
-1132	1	11	113	Marketing and sales directors
-1133	1	11	113	Purchasing managers and directors
-1134	1	11	113	Advertising and public relations directors
-1135	1	11	113	Human resource managers and directors
-1136	1	11	113	Information technology and telecommunications directors
-1139	1	11	113	Functional managers and directors n.e.c.
-1150	1	11	115	Financial institution managers and directors
-1161	1	11	116	Managers and directors in transport and distribution
-1162	1	11	116	Managers and directors in storage and warehousing
-1171	1	11	117	Officers in armed forces
-1172	1	11	117	Senior police officers
-1173	1	11	117	Senior officers in fire, ambulance, prison and related services
-1181	1	11	118	Health services and public health managers and directors
-1184	1	11	118	Social services managers and directors
-1190	1	11	119	Managers and directors in retail and wholesale
-1211	1	12	121	Managers and proprietors in agriculture and horticulture
-1213	1	12	121	Managers and proprietors in forestry, fishing and related services
-1221	1	12	122	Hotel and accommodation managers and proprietors
-1223	1	12	122	Restaurant and catering establishment managers and proprietors
-1224	1	12	122	Publicans and managers of licensed premises
-1225	1	12	122	Leisure and sports managers
-1226	1	12	122	Travel agency managers and proprietors
-1241	1	12	124	Health care practice managers
-1242	1	12	124	Residential, day and domiciliary care managers and proprietors
-1251	1	12	125	Property, housing and estate managers
-1252	1	12	125	Garage managers and proprietors
-1253	1	12	125	Hairdressing and beauty salon managers and proprietors
-1254	1	12	125	Shopkeepers and proprietors – wholesale and retail
-1255	1	12	125	Waste disposal and environmental services managers
-1259	1	12	125	Managers and proprietors in other services n.e.c.
-2111	2	21	211	Chemical scientists
-2112	2	21	211	Biological scientists and biochemists
-2113	2	21	211	Physical scientists
-2114	2	21	211	Social and humanities scientists
-2119	2	21	211	Natural and social science professionals n.e.c.
-2121	2	21	212	Civil engineers
-2122	2	21	212	Mechanical engineers
-2123	2	21	212	Electrical engineers
-2124	2	21	212	Electronics engineers
-2126	2	21	212	Design and development engineers
-2127	2	21	212	Production and process engineers
-2129	2	21	212	Engineering professionals n.e.c.
-2133	2	21	213	IT specialist managers
-2134	2	21	213	IT project and programme managers
-2135	2	21	213	IT business analysts, architects and systems designers
-2136	2	21	213	Programmers and software development professionals
-2137	2	21	213	Web design and development professionals
-2139	2	21	213	Information technology and telecommunications professionals n.e.c.
-2141	2	21	214	Conservation professionals
-2142	2	21	214	Environment professionals
-2150	2	21	215	Research and development managers
-2211	2	22	221	Medical practitioners
-2212	2	22	221	Psychologists
-2213	2	22	221	Pharmacists
-2214	2	22	221	Ophthalmic opticians
-2215	2	22	221	Dental practitioners
-2216	2	22	221	Veterinarians
-2217	2	22	221	Medical radiographers
-2218	2	22	221	Podiatrists
-2219	2	22	221	Health professionals n.e.c.
-2221	2	22	222	Physiotherapists
-2222	2	22	222	Occupational therapists
-2223	2	22	222	Speech and language therapists
-2229	2	22	222	Therapy professionals n.e.c.
-2231	2	22	223	Nurses
-2232	2	22	223	Midwives
-2311	2	23	231	Higher education teaching professionals
-2312	2	23	231	Further education teaching professionals
-2314	2	23	231	Secondary education teaching professionals
-2315	2	23	231	Primary and nursery education teaching professionals
-2316	2	23	231	Special needs education teaching professionals
-2317	2	23	231	Senior professionals of educational establishments
-2318	2	23	231	Education advisers and school inspectors
-2319	2	23	231	Teaching and other educational professionals n.e.c.
-2412	2	24	241	Barristers and judges
-2413	2	24	241	Solicitors
-2419	2	24	241	Legal professionals n.e.c.
-2421	2	24	242	Chartered and certified accountants
-2423	2	24	242	Management consultants and business analysts
-2424	2	24	242	Business and financial project management professionals
-2425	2	24	242	Actuaries, economists and statisticians
-2426	2	24	242	Business and related research professionals
-2429	2	24	242	Business, research and administrative professionals n.e.c.
-2431	2	24	243	Architects
-2432	2	24	243	Town planning officers
-2433	2	24	243	Quantity surveyors
-2434	2	24	243	Chartered surveyors
-2435	2	24	243	Chartered architectural technologists
-2436	2	24	243	Construction project managers and related professionals
-2442	2	24	244	Social workers
-2443	2	24	244	Probation officers
-2444	2	24	244	Clergy
-2449	2	24	244	Welfare professionals n.e.c.
-2451	2	24	245	Librarians
-2452	2	24	245	Archivists and curators
-2461	2	24	246	Quality control and planning engineers
-2462	2	24	246	Quality assurance and regulatory professionals
-2463	2	24	246	Environmental health professionals
-2471	2	24	247	Journalists, newspaper and periodical editors
-2472	2	24	247	Public relations professionals
-2473	2	24	247	Advertising accounts managers and creative directors
-3111	3	31	311	Laboratory technicians
-3112	3	31	311	Electrical and electronics technicians
-3113	3	31	311	Engineering technicians
-3114	3	31	311	Building and civil engineering technicians
-3115	3	31	311	Quality assurance technicians
-3116	3	31	311	Planning, process and production technicians
-3119	3	31	311	Science, engineering and production technicians n.e.c.
-3121	3	31	312	Architectural and town planning technicians
-3122	3	31	312	Draughtspersons
-3131	3	31	313	IT operations technicians
-3132	3	31	313	IT user support technicians
-3213	3	32	321	Paramedics
-3216	3	32	321	Dispensing opticians
-3217	3	32	321	Pharmaceutical technicians
-3218	3	32	321	Medical and dental technicians
-3219	3	32	321	Health associate professionals n.e.c.
-3231	3	32	323	Youth and community workers
-3233	3	32	323	Child and early years officers
-3234	3	32	323	Housing officers
-3235	3	32	323	Counsellors
-3239	3	32	323	Welfare and housing associate professionals n.e.c.
-3311	3	33	331	NCOs and other ranks
-3312	3	33	331	Police officers (sergeant and below)
-3313	3	33	331	Fire service officers (watch manager and below)
-3314	3	33	331	Prison service officers (below principal officer)
-3315	3	33	331	Police community support officers
-3319	3	33	331	Protective service associate professionals n.e.c.
-3411	3	34	341	Artists
-3412	3	34	341	Authors, writers and translators
-3413	3	34	341	Actors, entertainers and presenters
-3414	3	34	341	Dancers and choreographers
-3415	3	34	341	Musicians
-3416	3	34	341	Arts officers, producers and directors
-3417	3	34	341	Photographers, audio-visual and broadcasting equipment operators
-3421	3	34	342	Graphic designers
-3422	3	34	342	Product, clothing and related designers
-3441	3	34	344	Sports players
-3442	3	34	344	Sports coaches, instructors and officials
-3443	3	34	344	Fitness instructors
-3511	3	35	351	Air traffic controllers
-3512	3	35	351	Aircraft pilots and flight engineers
-3513	3	35	351	Ship and hovercraft officers
-3520	3	35	352	Legal associate professionals
-3531	3	35	353	Estimators, valuers and assessors
-3532	3	35	353	Brokers
-3533	3	35	353	Insurance underwriters
-3534	3	35	353	Finance and investment analysts and advisers
-3535	3	35	353	Taxation experts
-3536	3	35	353	Importers and exporters
-3537	3	35	353	Financial and accounting technicians
-3538	3	35	353	Financial accounts managers
-3539	3	35	353	Business and related associate professionals n.e.c.
-3541	3	35	354	Buyers and procurement officers
-3542	3	35	354	Business sales executives
-3543	3	35	354	Marketing associate professionals
-3544	3	35	354	Estate agents and auctioneers
-3545	3	35	354	Sales accounts and business development managers
-3546	3	35	354	Conference and exhibition managers and organisers
-3550	3	35	355	Conservation and environmental associate professionals
-3561	3	35	356	Public services associate professionals
-3562	3	35	356	Human resources and industrial relations officers
-3563	3	35	356	Vocational and industrial trainers and instructors
-3564	3	35	356	Careers advisers and vocational guidance specialists
-3565	3	35	356	Inspectors of standards and regulations
-3567	3	35	356	Health and safety officers
-4112	4	41	411	National government administrative occupations
-4113	4	41	411	Local government administrative occupations
-4114	4	41	411	Officers of non-governmental organisations
-4121	4	41	412	Credit controllers
-4122	4	41	412	Book-keepers, payroll managers and wages clerks
-4123	4	41	412	Bank and post office clerks
-4124	4	41	412	Finance officers
-4129	4	41	412	Financial administrative occupations n.e.c.
-4131	4	41	413	Records clerks and assistants
-4132	4	41	413	Pensions and insurance clerks and assistants
-4133	4	41	413	Stock control clerks and assistants
-4134	4	41	413	Transport and distribution clerks and assistants
-4135	4	41	413	Library clerks and assistants
-4138	4	41	413	Human resources administrative occupations
-4151	4	41	415	Sales administrators
-4159	4	41	415	Other administrative occupations n.e.c.
-4161	4	41	416	Office managers
-4162	4	41	416	Office supervisors
-4211	4	42	421	Medical secretaries
-4212	4	42	421	Legal secretaries
-4213	4	42	421	School secretaries
-4214	4	42	421	Company secretaries
-4215	4	42	421	Personal assistants and other secretaries
-4216	4	42	421	Receptionists
-4217	4	42	421	Typists and related keyboard occupations
-5111	5	51	511	Farmers
-5112	5	51	511	Horticultural trades
-5113	5	51	511	Gardeners and landscape gardeners
-5114	5	51	511	Groundsmen and greenkeepers
-5119	5	51	511	Agricultural and fishing trades n.e.c.
-5211	5	52	521	Smiths and forge workers
-5212	5	52	521	Moulders, core makers and die casters
-5213	5	52	521	Sheet metal workers
-5214	5	52	521	Metal plate workers, and riveters
-5215	5	52	521	Welding trades
-5216	5	52	521	Pipe fitters
-5221	5	52	522	Metal machining setters and setter-operators
-5222	5	52	522	Tool makers, tool fitters and markers-out
-5223	5	52	522	Metal working production and maintenance fitters
-5224	5	52	522	Precision instrument makers and repairers
-5225	5	52	522	Air-conditioning and refrigeration engineers
-5231	5	52	523	Vehicle technicians, mechanics and electricians
-5232	5	52	523	Vehicle body builders and repairers
-5234	5	52	523	Vehicle paint technicians
-5235	5	52	523	Aircraft maintenance and related trades
-5236	5	52	523	Boat and ship builders and repairers
-5237	5	52	523	Rail and rolling stock builders and repairers
-5241	5	52	524	Electricians and electrical fitters
-5242	5	52	524	Telecommunications engineers
-5244	5	52	524	TV, video and audio engineers
-5245	5	52	524	IT engineers
-5249	5	52	524	Electrical and electronic trades n.e.c.
-5250	5	52	525	Skilled metal, electrical and electronic trades supervisors
-5311	5	53	531	Steel erectors
-5312	5	53	531	Bricklayers and masons
-5313	5	53	531	Roofers, roof tilers and slaters
-5314	5	53	531	Plumbers and heating and ventilating engineers
-5315	5	53	531	Carpenters and joiners
-5316	5	53	531	Glaziers, window fabricators and fitters
-5319	5	53	531	Construction and building trades n.e.c.
-5321	5	53	532	Plasterers
-5322	5	53	532	Floorers and wall tilers
-5323	5	53	532	Painters and decorators
-5330	5	53	533	Construction and building trades supervisors
-5411	5	54	541	Weavers and knitters
-5412	5	54	541	Upholsterers
-5413	5	54	541	Footwear and leather working trades
-5414	5	54	541	Tailors and dressmakers
-5419	5	54	541	Textiles, garments and related trades n.e.c.
-5421	5	54	542	Pre-press technicians
-5422	5	54	542	Printers
-5423	5	54	542	Print finishing and binding workers
-5431	5	54	543	Butchers
-5432	5	54	543	Bakers and flour confectioners
-5433	5	54	543	Fishmongers and poultry dressers
-5434	5	54	543	Chefs
-5435	5	54	543	Cooks
-5436	5	54	543	Catering and bar managers
-5441	5	54	544	Glass and ceramics makers, decorators and finishers
-5442	5	54	544	Furniture makers and other craft woodworkers
-5443	5	54	544	Florists
-5449	5	54	544	Other skilled trades n.e.c.
-6121	6	61	612	Nursery nurses and assistants
-6122	6	61	612	Childminders and related occupations
-6123	6	61	612	Playworkers
-6125	6	61	612	Teaching assistants
-6126	6	61	612	Educational support assistants
-6131	6	61	613	Veterinary nurses
-6132	6	61	613	Pest control officers
-6139	6	61	613	Animal care services occupations n.e.c.
-6141	6	61	614	Nursing auxiliaries and assistants
-6142	6	61	614	Ambulance staff (excluding paramedics)
-6143	6	61	614	Dental nurses
-6144	6	61	614	Houseparents and residential wardens
-6145	6	61	614	Care workers and home carers
-6146	6	61	614	Senior care workers
-6147	6	61	614	Care escorts
-6148	6	61	614	Undertakers, mortuary and crematorium assistants
-6211	6	62	621	Sports and leisure assistants
-6212	6	62	621	Travel agents
-6214	6	62	621	Air travel assistants
-6215	6	62	621	Rail travel assistants
-6219	6	62	621	Leisure and travel service occupations n.e.c.
-6221	6	62	622	Hairdressers and barbers
-6222	6	62	622	Beauticians and related occupations
-6231	6	62	623	Housekeepers and related occupations
-6232	6	62	623	Caretakers
-6240	6	62	624	Cleaning and housekeeping managers and supervisors
-7111	7	71	711	Sales and retail assistants
-7112	7	71	711	Retail cashiers and check-out operators
-7113	7	71	711	Telephone salespersons
-7114	7	71	711	Pharmacy and other dispensing assistants
-7115	7	71	711	Vehicle and parts salespersons and advisers
-7121	7	71	712	Collector salespersons and credit agents
-7122	7	71	712	Debt, rent and other cash collectors
-7123	7	71	712	Roundspersons and van salespersons
-7124	7	71	712	Market and street traders and assistants
-7125	7	71	712	Merchandisers and window dressers
-7129	7	71	712	Sales related occupations n.e.c.
-7130	7	71	713	Sales supervisors
-7211	7	72	721	Call and contact centre occupations
-7213	7	72	721	Telephonists
-7214	7	72	721	Communication operators
-7215	7	72	721	Market research interviewers
-7219	7	72	721	Customer service occupations n.e.c.
-7220	7	72	722	Customer service managers and supervisors
-8111	8	81	811	Food, drink and tobacco process operatives
-8112	8	81	811	Glass and ceramics process operatives
-8113	8	81	811	Textile process operatives
-8114	8	81	811	Chemical and related process operatives
-8115	8	81	811	Rubber process operatives
-8116	8	81	811	Plastics process operatives
-8117	8	81	811	Metal making and treating process operatives
-8118	8	81	811	Electroplaters
-8119	8	81	811	Process operatives n.e.c.
-8121	8	81	812	Paper and wood machine operatives
-8122	8	81	812	Coal mine operatives
-8123	8	81	812	Quarry workers and related operatives
-8124	8	81	812	Energy plant operatives
-8125	8	81	812	Metal working machine operatives
-8126	8	81	812	Water and sewerage plant operatives
-8127	8	81	812	Printing machine assistants
-8129	8	81	812	Plant and machine operatives n.e.c.
-8131	8	81	813	Assemblers (electrical and electronic products)
-8132	8	81	813	Assemblers (vehicles and metal goods)
-8133	8	81	813	Routine inspectors and testers
-8134	8	81	813	Weighers, graders and sorters
-8135	8	81	813	Tyre, exhaust and windscreen fitters
-8137	8	81	813	Sewing machinists
-8139	8	81	813	Assemblers and routine operatives n.e.c.
-8141	8	81	814	Scaffolders, stagers and riggers
-8142	8	81	814	Road construction operatives
-8143	8	81	814	Rail construction and maintenance operatives
-8149	8	81	814	Construction operatives n.e.c.
-8211	8	82	821	Large goods vehicle drivers
-8212	8	82	821	Van drivers
-8213	8	82	821	Bus and coach drivers
-8214	8	82	821	Taxi and cab drivers and chauffeurs
-8215	8	82	821	Driving instructors
-8221	8	82	822	Crane drivers
-8222	8	82	822	Fork-lift truck drivers
-8223	8	82	822	Agricultural machinery drivers
-8229	8	82	822	Mobile machine drivers and operatives n.e.c.
-8231	8	82	823	Train and tram drivers
-8232	8	82	823	Marine and waterways transport operatives
-8233	8	82	823	Air transport operatives
-8234	8	82	823	Rail transport operatives
-8239	8	82	823	Other drivers and transport operatives n.e.c.
-9111	9	91	911	Farm workers
-9112	9	91	911	Forestry workers
-9119	9	91	911	Fishing and other elementary agriculture occupations n.e.c.
-9120	9	91	912	Elementary construction occupations
-9132	9	91	913	Industrial cleaning process occupations
-9134	9	91	913	Packers, bottlers, canners and fillers
-9139	9	91	913	Elementary process plant occupations n.e.c.
-9211	9	92	921	Postal workers, mail sorters, messengers and couriers
-9219	9	92	921	Elementary administration occupations n.e.c.
-9231	9	92	923	Window cleaners
-9232	9	92	923	Street cleaners
-9233	9	92	923	Cleaners and domestics
-9234	9	92	923	Launderers, dry cleaners and pressers
-9235	9	92	923	Refuse and salvage occupations
-9236	9	92	923	Vehicle valeters and cleaners
-9239	9	92	923	Elementary cleaning occupations n.e.c.
-9241	9	92	924	Security guards and related occupations
-9242	9	92	924	Parking and civil enforcement occupations
-9244	9	92	924	School midday and crossing patrol occupations
-9249	9	92	924	Elementary security occupations n.e.c.
-9251	9	92	925	Shelf fillers
-9259	9	92	925	Elementary sales occupations n.e.c.
-9260	9	92	926	Elementary storage occupations
-9271	9	92	927	Hospital porters
-9272	9	92	927	Kitchen and catering assistants
-9273	9	92	927	Waiters and waitresses
-9274	9	92	927	Bar staff
-9275	9	92	927	Leisure and theme park attendants
-9279	9	92	927	Other elementary services occupations n.e.c.
+occupation	name	parent-occupation	start-date	end-date
+1	MANAGERS, DIRECTORS AND SENIOR OFFICIALS			
+2	PROFESSIONAL OCCUPATIONS			
+3	ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS			
+4	ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS			
+5	SKILLED TRADES OCCUPATIONS			
+6	CARING, LEISURE AND OTHER SERVICE OCCUPATIONS			
+7	SALES AND CUSTOMER SERVICE OCCUPATIONS			
+8	PROCESS, PLANT AND MACHINE OPERATIVES			
+9	ELEMENTARY OCCUPATIONS			
+11	CORPORATE MANAGERS AND DIRECTORS	1		
+12	OTHER MANAGERS AND PROPRIETORS	1		
+21	SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS	2		
+22	HEALTH PROFESSIONALS	2		
+23	TEACHING AND EDUCATIONAL PROFESSIONALS	2		
+24	BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS	2		
+31	SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS	3		
+32	HEALTH AND SOCIAL CARE ASSOCIATE PROFESSIONALS	3		
+33	PROTECTIVE SERVICE OCCUPATIONS	3		
+34	CULTURE, MEDIA AND SPORTS OCCUPATIONS	3		
+35	BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS	3		
+41	ADMINISTRATIVE OCCUPATIONS	4		
+42	SECRETARIAL AND RELATED OCCUPATIONS	4		
+51	SKILLED AGRICULTURAL AND RELATED TRADES	5		
+52	SKILLED METAL, ELECTRICAL AND ELECTRONIC TRADES	5		
+53	SKILLED CONSTRUCTION AND BUILDING TRADES	5		
+54	TEXTILES, PRINTING AND OTHER SKILLED TRADES	5		
+61	CARING PERSONAL SERVICE OCCUPATIONS	6		
+62	LEISURE, TRAVEL AND RELATED PERSONAL SERVICE OCCUPATIONS	6		
+71	SALES OCCUPATIONS	7		
+72	CUSTOMER SERVICE OCCUPATIONS	7		
+81	PROCESS, PLANT AND MACHINE OPERATIVES	8		
+82	TRANSPORT AND MOBILE MACHINE DRIVERS AND OPERATIVES	8		
+91	ELEMENTARY TRADES AND RELATED OCCUPATIONS	9		
+92	ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS	9		
+111	Chief Executives and Senior Officials	11		
+112	Production Managers and Directors	11		
+113	Functional Managers and Directors	11		
+115	Financial Institution Managers and Directors	11		
+116	Managers and Directors in Transport and Logistics	11		
+117	Senior Officers in Protective Services	11		
+118	Health and Social Services Managers and Directors	11		
+119	Managers and Directors in Retail and Wholesale	11		
+121	Managers and Proprietors in Agriculture Related Services	12		
+122	Managers and Proprietors in Hospitality and Leisure Services	12		
+124	Managers and Proprietors in Health and Care Services	12		
+125	Managers and Proprietors in Other Services	12		
+211	Natural and Social Science Professionals	21		
+212	Engineering Professionals	21		
+213	Information Technology and Telecommunications Professionals	21		
+214	Conservation and Environment Professionals	21		
+215	Research and Development Managers	21		
+221	Health Professionals	22		
+222	Therapy Professionals	22		
+223	Nursing and Midwifery Professionals	22		
+231	Teaching and Educational Professionals	23		
+241	Legal Professionals	24		
+242	Business, Research and Administrative Professionals	24		
+243	Architects, Town Planners and Surveyors	24		
+244	Welfare Professionals	24		
+245	Librarians and Related Professionals	24		
+246	Quality and Regulatory Professionals	24		
+247	Media Professionals	24		
+311	Science, Engineering and Production Technicians	31		
+312	Draughtspersons and Related Architectural Technicians	31		
+313	Information Technology Technicians	31		
+321	Health Associate Professionals	32		
+323	Welfare and Housing Associate Professionals	32		
+331	Protective Service Occupations	33		
+341	Artistic, Literary and Media Occupations	34		
+342	Design Occupations	34		
+344	Sports and Fitness Occupations	34		
+351	Transport Associate Professionals	35		
+352	Legal Associate Professionals	35		
+353	Business, Finance and Related Associate Professionals	35		
+354	Sales, Marketing and Related Associate Professionals	35		
+355	Conservation and Environmental Associate Professionals	35		
+356	Public Services and Other Associate Professionals	35		
+411	Administrative Occupations: Government and Related Organisations	41		
+412	Administrative Occupations: Finance	41		
+413	Administrative Occupations: Records	41		
+415	Other Administrative Occupations	41		
+416	Administrative Occupations: Office Managers and Supervisors	41		
+421	Secretarial and Related Occupations	42		
+511	Agricultural and Related Trades	51		
+521	Metal Forming, Welding and Related Trades	52		
+522	Metal Machining, Fitting and Instrument Making Trades	52		
+523	Vehicle Trades	52		
+524	Electrical and Electronic Trades	52		
+525	Skilled Metal, Electrical and Electronic Trades Supervisors	52		
+531	Construction and Building Trades	53		
+532	Building Finishing Trades	53		
+533	Construction and Building Trades Supervisors	53		
+541	Textiles and Garments Trades	54		
+542	Printing Trades	54		
+543	Food Preparation and Hospitality Trades	54		
+544	Other Skilled Trades	54		
+612	Childcare and Related Personal Services	61		
+613	Animal Care and Control Services	61		
+614	Caring Personal Services	61		
+621	Leisure and Travel Services	62		
+622	Hairdressers and Related Services	62		
+623	Housekeeping and Related Services	62		
+624	Cleaning and Housekeeping Managers and Supervisors	62		
+711	Sales Assistants and Retail Cashiers	71		
+712	Sales Related Occupations	71		
+713	Sales Supervisors	71		
+721	Customer Service Occupations	72		
+722	Customer Service Managers and Supervisors	72		
+811	Process Operatives	81		
+812	Plant and Machine Operatives	81		
+813	Assemblers and Routine Operatives	81		
+814	Construction Operatives	81		
+821	Road Transport Drivers	82		
+822	Mobile Machine Drivers and Operatives	82		
+823	Other Drivers and Transport Operatives	82		
+911	Elementary Agricultural Occupations	91		
+912	Elementary Construction Occupations	91		
+913	Elementary Process Plant Occupations	91		
+921	Elementary Administration Occupations	92		
+923	Elementary Cleaning Occupations	92		
+924	Elementary Security Occupations	92		
+925	Elementary Sales Occupations	92		
+926	Elementary Storage Occupations	92		
+927	Other Elementary Services Occupations	92		
+1115	Chief executives and senior officials	111		
+1116	Elected officers and representatives	111		
+1121	Production managers and directors in manufacturing	112		
+1122	Production managers and directors in construction	112		
+1123	Production managers and directors in mining and energy	112		
+1131	Financial managers and directors	113		
+1132	Marketing and sales directors	113		
+1133	Purchasing managers and directors	113		
+1134	Advertising and public relations directors	113		
+1135	Human resource managers and directors	113		
+1136	Information technology and telecommunications directors	113		
+1139	Functional managers and directors n.e.c.	113		
+1150	Financial institution managers and directors	115		
+1161	Managers and directors in transport and distribution	116		
+1162	Managers and directors in storage and warehousing	116		
+1171	Officers in armed forces	117		
+1172	Senior police officers	117		
+1173	Senior officers in fire, ambulance, prison and related services	117		
+1181	Health services and public health managers and directors	118		
+1184	Social services managers and directors	118		
+1190	Managers and directors in retail and wholesale	119		
+1211	Managers and proprietors in agriculture and horticulture	121		
+1213	Managers and proprietors in forestry, fishing and related services	121		
+1221	Hotel and accommodation managers and proprietors	122		
+1223	Restaurant and catering establishment managers and proprietors	122		
+1224	Publicans and managers of licensed premises	122		
+1225	Leisure and sports managers	122		
+1226	Travel agency managers and proprietors	122		
+1241	Health care practice managers	124		
+1242	Residential, day and domiciliary care managers and proprietors	124		
+1251	Property, housing and estate managers	125		
+1252	Garage managers and proprietors	125		
+1253	Hairdressing and beauty salon managers and proprietors	125		
+1254	Shopkeepers and proprietors – wholesale and retail	125		
+1255	Waste disposal and environmental services managers	125		
+1259	Managers and proprietors in other services n.e.c.	125		
+2111	Chemical scientists	211		
+2112	Biological scientists and biochemists	211		
+2113	Physical scientists	211		
+2114	Social and humanities scientists	211		
+2119	Natural and social science professionals n.e.c.	211		
+2121	Civil engineers	212		
+2122	Mechanical engineers	212		
+2123	Electrical engineers	212		
+2124	Electronics engineers	212		
+2126	Design and development engineers	212		
+2127	Production and process engineers	212		
+2129	Engineering professionals n.e.c.	212		
+2133	IT specialist managers	213		
+2134	IT project and programme managers	213		
+2135	IT business analysts, architects and systems designers	213		
+2136	Programmers and software development professionals	213		
+2137	Web design and development professionals	213		
+2139	Information technology and telecommunications professionals n.e.c.	213		
+2141	Conservation professionals	214		
+2142	Environment professionals	214		
+2150	Research and development managers	215		
+2211	Medical practitioners	221		
+2212	Psychologists	221		
+2213	Pharmacists	221		
+2214	Ophthalmic opticians	221		
+2215	Dental practitioners	221		
+2216	Veterinarians	221		
+2217	Medical radiographers	221		
+2218	Podiatrists	221		
+2219	Health professionals n.e.c.	221		
+2221	Physiotherapists	222		
+2222	Occupational therapists	222		
+2223	Speech and language therapists	222		
+2229	Therapy professionals n.e.c.	222		
+2231	Nurses	223		
+2232	Midwives	223		
+2311	Higher education teaching professionals	231		
+2312	Further education teaching professionals	231		
+2314	Secondary education teaching professionals	231		
+2315	Primary and nursery education teaching professionals	231		
+2316	Special needs education teaching professionals	231		
+2317	Senior professionals of educational establishments	231		
+2318	Education advisers and school inspectors	231		
+2319	Teaching and other educational professionals n.e.c.	231		
+2412	Barristers and judges	241		
+2413	Solicitors	241		
+2419	Legal professionals n.e.c.	241		
+2421	Chartered and certified accountants	242		
+2423	Management consultants and business analysts	242		
+2424	Business and financial project management professionals	242		
+2425	Actuaries, economists and statisticians	242		
+2426	Business and related research professionals	242		
+2429	Business, research and administrative professionals n.e.c.	242		
+2431	Architects	243		
+2432	Town planning officers	243		
+2433	Quantity surveyors	243		
+2434	Chartered surveyors	243		
+2435	Chartered architectural technologists	243		
+2436	Construction project managers and related professionals	243		
+2442	Social workers	244		
+2443	Probation officers	244		
+2444	Clergy	244		
+2449	Welfare professionals n.e.c.	244		
+2451	Librarians	245		
+2452	Archivists and curators	245		
+2461	Quality control and planning engineers	246		
+2462	Quality assurance and regulatory professionals	246		
+2463	Environmental health professionals	246		
+2471	Journalists, newspaper and periodical editors	247		
+2472	Public relations professionals	247		
+2473	Advertising accounts managers and creative directors	247		
+3111	Laboratory technicians	311		
+3112	Electrical and electronics technicians	311		
+3113	Engineering technicians	311		
+3114	Building and civil engineering technicians	311		
+3115	Quality assurance technicians	311		
+3116	Planning, process and production technicians	311		
+3119	Science, engineering and production technicians n.e.c.	311		
+3121	Architectural and town planning technicians	312		
+3122	Draughtspersons	312		
+3131	IT operations technicians	313		
+3132	IT user support technicians	313		
+3213	Paramedics	321		
+3216	Dispensing opticians	321		
+3217	Pharmaceutical technicians	321		
+3218	Medical and dental technicians	321		
+3219	Health associate professionals n.e.c.	321		
+3231	Youth and community workers	323		
+3233	Child and early years officers	323		
+3234	Housing officers	323		
+3235	Counsellors	323		
+3239	Welfare and housing associate professionals n.e.c.	323		
+3311	NCOs and other ranks	331		
+3312	Police officers (sergeant and below)	331		
+3313	Fire service officers (watch manager and below)	331		
+3314	Prison service officers (below principal officer)	331		
+3315	Police community support officers	331		
+3319	Protective service associate professionals n.e.c.	331		
+3411	Artists	341		
+3412	Authors, writers and translators	341		
+3413	Actors, entertainers and presenters	341		
+3414	Dancers and choreographers	341		
+3415	Musicians	341		
+3416	Arts officers, producers and directors	341		
+3417	Photographers, audio-visual and broadcasting equipment operators	341		
+3421	Graphic designers	342		
+3422	Product, clothing and related designers	342		
+3441	Sports players	344		
+3442	Sports coaches, instructors and officials	344		
+3443	Fitness instructors	344		
+3511	Air traffic controllers	351		
+3512	Aircraft pilots and flight engineers	351		
+3513	Ship and hovercraft officers	351		
+3520	Legal associate professionals	352		
+3531	Estimators, valuers and assessors	353		
+3532	Brokers	353		
+3533	Insurance underwriters	353		
+3534	Finance and investment analysts and advisers	353		
+3535	Taxation experts	353		
+3536	Importers and exporters	353		
+3537	Financial and accounting technicians	353		
+3538	Financial accounts managers	353		
+3539	Business and related associate professionals n.e.c.	353		
+3541	Buyers and procurement officers	354		
+3542	Business sales executives	354		
+3543	Marketing associate professionals	354		
+3544	Estate agents and auctioneers	354		
+3545	Sales accounts and business development managers	354		
+3546	Conference and exhibition managers and organisers	354		
+3550	Conservation and environmental associate professionals	355		
+3561	Public services associate professionals	356		
+3562	Human resources and industrial relations officers	356		
+3563	Vocational and industrial trainers and instructors	356		
+3564	Careers advisers and vocational guidance specialists	356		
+3565	Inspectors of standards and regulations	356		
+3567	Health and safety officers	356		
+4112	National government administrative occupations	411		
+4113	Local government administrative occupations	411		
+4114	Officers of non-governmental organisations	411		
+4121	Credit controllers	412		
+4122	Book-keepers, payroll managers and wages clerks	412		
+4123	Bank and post office clerks	412		
+4124	Finance officers	412		
+4129	Financial administrative occupations n.e.c.	412		
+4131	Records clerks and assistants	413		
+4132	Pensions and insurance clerks and assistants	413		
+4133	Stock control clerks and assistants	413		
+4134	Transport and distribution clerks and assistants	413		
+4135	Library clerks and assistants	413		
+4138	Human resources administrative occupations	413		
+4151	Sales administrators	415		
+4159	Other administrative occupations n.e.c.	415		
+4161	Office managers	416		
+4162	Office supervisors	416		
+4211	Medical secretaries	421		
+4212	Legal secretaries	421		
+4213	School secretaries	421		
+4214	Company secretaries	421		
+4215	Personal assistants and other secretaries	421		
+4216	Receptionists	421		
+4217	Typists and related keyboard occupations	421		
+5111	Farmers	511		
+5112	Horticultural trades	511		
+5113	Gardeners and landscape gardeners	511		
+5114	Groundsmen and greenkeepers	511		
+5119	Agricultural and fishing trades n.e.c.	511		
+5211	Smiths and forge workers	521		
+5212	Moulders, core makers and die casters	521		
+5213	Sheet metal workers	521		
+5214	Metal plate workers, and riveters	521		
+5215	Welding trades	521		
+5216	Pipe fitters	521		
+5221	Metal machining setters and setter-operators	522		
+5222	Tool makers, tool fitters and markers-out	522		
+5223	Metal working production and maintenance fitters	522		
+5224	Precision instrument makers and repairers	522		
+5225	Air-conditioning and refrigeration engineers	522		
+5231	Vehicle technicians, mechanics and electricians	523		
+5232	Vehicle body builders and repairers	523		
+5234	Vehicle paint technicians	523		
+5235	Aircraft maintenance and related trades	523		
+5236	Boat and ship builders and repairers	523		
+5237	Rail and rolling stock builders and repairers	523		
+5241	Electricians and electrical fitters	524		
+5242	Telecommunications engineers	524		
+5244	TV, video and audio engineers	524		
+5245	IT engineers	524		
+5249	Electrical and electronic trades n.e.c.	524		
+5250	Skilled metal, electrical and electronic trades supervisors	525		
+5311	Steel erectors	531		
+5312	Bricklayers and masons	531		
+5313	Roofers, roof tilers and slaters	531		
+5314	Plumbers and heating and ventilating engineers	531		
+5315	Carpenters and joiners	531		
+5316	Glaziers, window fabricators and fitters	531		
+5319	Construction and building trades n.e.c.	531		
+5321	Plasterers	532		
+5322	Floorers and wall tilers	532		
+5323	Painters and decorators	532		
+5330	Construction and building trades supervisors	533		
+5411	Weavers and knitters	541		
+5412	Upholsterers	541		
+5413	Footwear and leather working trades	541		
+5414	Tailors and dressmakers	541		
+5419	Textiles, garments and related trades n.e.c.	541		
+5421	Pre-press technicians	542		
+5422	Printers	542		
+5423	Print finishing and binding workers	542		
+5431	Butchers	543		
+5432	Bakers and flour confectioners	543		
+5433	Fishmongers and poultry dressers	543		
+5434	Chefs	543		
+5435	Cooks	543		
+5436	Catering and bar managers	543		
+5441	Glass and ceramics makers, decorators and finishers	544		
+5442	Furniture makers and other craft woodworkers	544		
+5443	Florists	544		
+5449	Other skilled trades n.e.c.	544		
+6121	Nursery nurses and assistants	612		
+6122	Childminders and related occupations	612		
+6123	Playworkers	612		
+6125	Teaching assistants	612		
+6126	Educational support assistants	612		
+6131	Veterinary nurses	613		
+6132	Pest control officers	613		
+6139	Animal care services occupations n.e.c.	613		
+6141	Nursing auxiliaries and assistants	614		
+6142	Ambulance staff (excluding paramedics)	614		
+6143	Dental nurses	614		
+6144	Houseparents and residential wardens	614		
+6145	Care workers and home carers	614		
+6146	Senior care workers	614		
+6147	Care escorts	614		
+6148	Undertakers, mortuary and crematorium assistants	614		
+6211	Sports and leisure assistants	621		
+6212	Travel agents	621		
+6214	Air travel assistants	621		
+6215	Rail travel assistants	621		
+6219	Leisure and travel service occupations n.e.c.	621		
+6221	Hairdressers and barbers	622		
+6222	Beauticians and related occupations	622		
+6231	Housekeepers and related occupations	623		
+6232	Caretakers	623		
+6240	Cleaning and housekeeping managers and supervisors	624		
+7111	Sales and retail assistants	711		
+7112	Retail cashiers and check-out operators	711		
+7113	Telephone salespersons	711		
+7114	Pharmacy and other dispensing assistants	711		
+7115	Vehicle and parts salespersons and advisers	711		
+7121	Collector salespersons and credit agents	712		
+7122	Debt, rent and other cash collectors	712		
+7123	Roundspersons and van salespersons	712		
+7124	Market and street traders and assistants	712		
+7125	Merchandisers and window dressers	712		
+7129	Sales related occupations n.e.c.	712		
+7130	Sales supervisors	713		
+7211	Call and contact centre occupations	721		
+7213	Telephonists	721		
+7214	Communication operators	721		
+7215	Market research interviewers	721		
+7219	Customer service occupations n.e.c.	721		
+7220	Customer service managers and supervisors	722		
+8111	Food, drink and tobacco process operatives	811		
+8112	Glass and ceramics process operatives	811		
+8113	Textile process operatives	811		
+8114	Chemical and related process operatives	811		
+8115	Rubber process operatives	811		
+8116	Plastics process operatives	811		
+8117	Metal making and treating process operatives	811		
+8118	Electroplaters	811		
+8119	Process operatives n.e.c.	811		
+8121	Paper and wood machine operatives	812		
+8122	Coal mine operatives	812		
+8123	Quarry workers and related operatives	812		
+8124	Energy plant operatives	812		
+8125	Metal working machine operatives	812		
+8126	Water and sewerage plant operatives	812		
+8127	Printing machine assistants	812		
+8129	Plant and machine operatives n.e.c.	812		
+8131	Assemblers (electrical and electronic products)	813		
+8132	Assemblers (vehicles and metal goods)	813		
+8133	Routine inspectors and testers	813		
+8134	Weighers, graders and sorters	813		
+8135	Tyre, exhaust and windscreen fitters	813		
+8137	Sewing machinists	813		
+8139	Assemblers and routine operatives n.e.c.	813		
+8141	Scaffolders, stagers and riggers	814		
+8142	Road construction operatives	814		
+8143	Rail construction and maintenance operatives	814		
+8149	Construction operatives n.e.c.	814		
+8211	Large goods vehicle drivers	821		
+8212	Van drivers	821		
+8213	Bus and coach drivers	821		
+8214	Taxi and cab drivers and chauffeurs	821		
+8215	Driving instructors	821		
+8221	Crane drivers	822		
+8222	Fork-lift truck drivers	822		
+8223	Agricultural machinery drivers	822		
+8229	Mobile machine drivers and operatives n.e.c.	822		
+8231	Train and tram drivers	823		
+8232	Marine and waterways transport operatives	823		
+8233	Air transport operatives	823		
+8234	Rail transport operatives	823		
+8239	Other drivers and transport operatives n.e.c.	823		
+9111	Farm workers	911		
+9112	Forestry workers	911		
+9119	Fishing and other elementary agriculture occupations n.e.c.	911		
+9120	Elementary construction occupations	912		
+9132	Industrial cleaning process occupations	913		
+9134	Packers, bottlers, canners and fillers	913		
+9139	Elementary process plant occupations n.e.c.	913		
+9211	Postal workers, mail sorters, messengers and couriers	921		
+9219	Elementary administration occupations n.e.c.	921		
+9231	Window cleaners	923		
+9232	Street cleaners	923		
+9233	Cleaners and domestics	923		
+9234	Launderers, dry cleaners and pressers	923		
+9235	Refuse and salvage occupations	923		
+9236	Vehicle valeters and cleaners	923		
+9239	Elementary cleaning occupations n.e.c.	923		
+9241	Security guards and related occupations	924		
+9242	Parking and civil enforcement occupations	924		
+9244	School midday and crossing patrol occupations	924		
+9249	Elementary security occupations n.e.c.	924		
+9251	Shelf fillers	925		
+9259	Elementary sales occupations n.e.c.	925		
+9260	Elementary storage occupations	926		
+9271	Hospital porters	927		
+9272	Kitchen and catering assistants	927		
+9273	Waiters and waitresses	927		
+9274	Bar staff	927		
+9275	Leisure and theme park attendants	927		
+9279	Other elementary services occupations n.e.c.	927		
