@@ -134,7 +134,7 @@ occupation	name	parent-occupation	start-date	end-date
 1134	Advertising and public relations directors	113		
 1135	Human resource managers and directors	113		
 1136	Information technology and telecommunications directors	113		
-1139	Functional managers and directors n.e.c.	113		
+1139	Functional managers and directors not elsewhere classified	113		
 1150	Financial institution managers and directors	115		
 1161	Managers and directors in transport and distribution	116		
 1162	Managers and directors in storage and warehousing	116		
@@ -158,25 +158,25 @@ occupation	name	parent-occupation	start-date	end-date
 1253	Hairdressing and beauty salon managers and proprietors	125		
 1254	Shopkeepers and proprietors – wholesale and retail	125		
 1255	Waste disposal and environmental services managers	125		
-1259	Managers and proprietors in other services n.e.c.	125		
+1259	Managers and proprietors in other services not elsewhere classified	125		
 2111	Chemical scientists	211		
 2112	Biological scientists and biochemists	211		
 2113	Physical scientists	211		
 2114	Social and humanities scientists	211		
-2119	Natural and social science professionals n.e.c.	211		
+2119	Natural and social science professionals not elsewhere classified	211		
 2121	Civil engineers	212		
 2122	Mechanical engineers	212		
 2123	Electrical engineers	212		
 2124	Electronics engineers	212		
 2126	Design and development engineers	212		
 2127	Production and process engineers	212		
-2129	Engineering professionals n.e.c.	212		
+2129	Engineering professionals not elsewhere classified	212		
 2133	IT specialist managers	213		
 2134	IT project and programme managers	213		
 2135	IT business analysts, architects and systems designers	213		
 2136	Programmers and software development professionals	213		
 2137	Web design and development professionals	213		
-2139	Information technology and telecommunications professionals n.e.c.	213		
+2139	Information technology and telecommunications professionals not elsewhere classified	213		
 2141	Conservation professionals	214		
 2142	Environment professionals	214		
 2150	Research and development managers	215		
@@ -188,11 +188,11 @@ occupation	name	parent-occupation	start-date	end-date
 2216	Veterinarians	221		
 2217	Medical radiographers	221		
 2218	Podiatrists	221		
-2219	Health professionals n.e.c.	221		
+2219	Health professionals not elsewhere classified	221		
 2221	Physiotherapists	222		
 2222	Occupational therapists	222		
 2223	Speech and language therapists	222		
-2229	Therapy professionals n.e.c.	222		
+2229	Therapy professionals not elsewhere classified	222		
 2231	Nurses	223		
 2232	Midwives	223		
 2311	Higher education teaching professionals	231		
@@ -202,16 +202,16 @@ occupation	name	parent-occupation	start-date	end-date
 2316	Special needs education teaching professionals	231		
 2317	Senior professionals of educational establishments	231		
 2318	Education advisers and school inspectors	231		
-2319	Teaching and other educational professionals n.e.c.	231		
+2319	Teaching and other educational professionals not elsewhere classified	231		
 2412	Barristers and judges	241		
 2413	Solicitors	241		
-2419	Legal professionals n.e.c.	241		
+2419	Legal professionals not elsewhere classified	241		
 2421	Chartered and certified accountants	242		
 2423	Management consultants and business analysts	242		
 2424	Business and financial project management professionals	242		
 2425	Actuaries, economists and statisticians	242		
 2426	Business and related research professionals	242		
-2429	Business, research and administrative professionals n.e.c.	242		
+2429	Business, research and administrative professionals not elsewhere classified	242		
 2431	Architects	243		
 2432	Town planning officers	243		
 2433	Quantity surveyors	243		
@@ -221,7 +221,7 @@ occupation	name	parent-occupation	start-date	end-date
 2442	Social workers	244		
 2443	Probation officers	244		
 2444	Clergy	244		
-2449	Welfare professionals n.e.c.	244		
+2449	Welfare professionals not elsewhere classified	244		
 2451	Librarians	245		
 2452	Archivists and curators	245		
 2461	Quality control and planning engineers	246		
@@ -236,7 +236,7 @@ occupation	name	parent-occupation	start-date	end-date
 3114	Building and civil engineering technicians	311		
 3115	Quality assurance technicians	311		
 3116	Planning, process and production technicians	311		
-3119	Science, engineering and production technicians n.e.c.	311		
+3119	Science, engineering and production technicians not elsewhere classified	311		
 3121	Architectural and town planning technicians	312		
 3122	Draughtspersons	312		
 3131	IT operations technicians	313		
@@ -245,18 +245,18 @@ occupation	name	parent-occupation	start-date	end-date
 3216	Dispensing opticians	321		
 3217	Pharmaceutical technicians	321		
 3218	Medical and dental technicians	321		
-3219	Health associate professionals n.e.c.	321		
+3219	Health associate professionals not elsewhere classified	321		
 3231	Youth and community workers	323		
 3233	Child and early years officers	323		
 3234	Housing officers	323		
 3235	Counsellors	323		
-3239	Welfare and housing associate professionals n.e.c.	323		
+3239	Welfare and housing associate professionals not elsewhere classified	323		
 3311	NCOs and other ranks	331		
 3312	Police officers (sergeant and below)	331		
 3313	Fire service officers (watch manager and below)	331		
 3314	Prison service officers (below principal officer)	331		
 3315	Police community support officers	331		
-3319	Protective service associate professionals n.e.c.	331		
+3319	Protective service associate professionals not elsewhere classified	331		
 3411	Artists	341		
 3412	Authors, writers and translators	341		
 3413	Actors, entertainers and presenters	341		
@@ -281,7 +281,7 @@ occupation	name	parent-occupation	start-date	end-date
 3536	Importers and exporters	353		
 3537	Financial and accounting technicians	353		
 3538	Financial accounts managers	353		
-3539	Business and related associate professionals n.e.c.	353		
+3539	Business and related associate professionals not elsewhere classified	353		
 3541	Buyers and procurement officers	354		
 3542	Business sales executives	354		
 3543	Marketing associate professionals	354		
@@ -302,7 +302,7 @@ occupation	name	parent-occupation	start-date	end-date
 4122	Book-keepers, payroll managers and wages clerks	412		
 4123	Bank and post office clerks	412		
 4124	Finance officers	412		
-4129	Financial administrative occupations n.e.c.	412		
+4129	Financial administrative occupations not elsewhere classified	412		
 4131	Records clerks and assistants	413		
 4132	Pensions and insurance clerks and assistants	413		
 4133	Stock control clerks and assistants	413		
@@ -310,7 +310,7 @@ occupation	name	parent-occupation	start-date	end-date
 4135	Library clerks and assistants	413		
 4138	Human resources administrative occupations	413		
 4151	Sales administrators	415		
-4159	Other administrative occupations n.e.c.	415		
+4159	Other administrative occupations not elsewhere classified	415		
 4161	Office managers	416		
 4162	Office supervisors	416		
 4211	Medical secretaries	421		
@@ -324,7 +324,7 @@ occupation	name	parent-occupation	start-date	end-date
 5112	Horticultural trades	511		
 5113	Gardeners and landscape gardeners	511		
 5114	Groundsmen and greenkeepers	511		
-5119	Agricultural and fishing trades n.e.c.	511		
+5119	Agricultural and fishing trades not elsewhere classified	511		
 5211	Smiths and forge workers	521		
 5212	Moulders, core makers and die casters	521		
 5213	Sheet metal workers	521		
@@ -346,7 +346,7 @@ occupation	name	parent-occupation	start-date	end-date
 5242	Telecommunications engineers	524		
 5244	TV, video and audio engineers	524		
 5245	IT engineers	524		
-5249	Electrical and electronic trades n.e.c.	524		
+5249	Electrical and electronic trades not elsewhere classified	524		
 5250	Skilled metal, electrical and electronic trades supervisors	525		
 5311	Steel erectors	531		
 5312	Bricklayers and masons	531		
@@ -354,7 +354,7 @@ occupation	name	parent-occupation	start-date	end-date
 5314	Plumbers and heating and ventilating engineers	531		
 5315	Carpenters and joiners	531		
 5316	Glaziers, window fabricators and fitters	531		
-5319	Construction and building trades n.e.c.	531		
+5319	Construction and building trades not elsewhere classified	531		
 5321	Plasterers	532		
 5322	Floorers and wall tilers	532		
 5323	Painters and decorators	532		
@@ -363,7 +363,7 @@ occupation	name	parent-occupation	start-date	end-date
 5412	Upholsterers	541		
 5413	Footwear and leather working trades	541		
 5414	Tailors and dressmakers	541		
-5419	Textiles, garments and related trades n.e.c.	541		
+5419	Textiles, garments and related trades not elsewhere classified	541		
 5421	Pre-press technicians	542		
 5422	Printers	542		
 5423	Print finishing and binding workers	542		
@@ -376,7 +376,7 @@ occupation	name	parent-occupation	start-date	end-date
 5441	Glass and ceramics makers, decorators and finishers	544		
 5442	Furniture makers and other craft woodworkers	544		
 5443	Florists	544		
-5449	Other skilled trades n.e.c.	544		
+5449	Other skilled trades not elsewhere classified	544		
 6121	Nursery nurses and assistants	612		
 6122	Childminders and related occupations	612		
 6123	Playworkers	612		
@@ -384,7 +384,7 @@ occupation	name	parent-occupation	start-date	end-date
 6126	Educational support assistants	612		
 6131	Veterinary nurses	613		
 6132	Pest control officers	613		
-6139	Animal care services occupations n.e.c.	613		
+6139	Animal care services occupations not elsewhere classified	613		
 6141	Nursing auxiliaries and assistants	614		
 6142	Ambulance staff (excluding paramedics)	614		
 6143	Dental nurses	614		
@@ -397,7 +397,7 @@ occupation	name	parent-occupation	start-date	end-date
 6212	Travel agents	621		
 6214	Air travel assistants	621		
 6215	Rail travel assistants	621		
-6219	Leisure and travel service occupations n.e.c.	621		
+6219	Leisure and travel service occupations not elsewhere classified	621		
 6221	Hairdressers and barbers	622		
 6222	Beauticians and related occupations	622		
 6231	Housekeepers and related occupations	623		
@@ -413,13 +413,13 @@ occupation	name	parent-occupation	start-date	end-date
 7123	Roundspersons and van salespersons	712		
 7124	Market and street traders and assistants	712		
 7125	Merchandisers and window dressers	712		
-7129	Sales related occupations n.e.c.	712		
+7129	Sales related occupations not elsewhere classified	712		
 7130	Sales supervisors	713		
 7211	Call and contact centre occupations	721		
 7213	Telephonists	721		
 7214	Communication operators	721		
 7215	Market research interviewers	721		
-7219	Customer service occupations n.e.c.	721		
+7219	Customer service occupations not elsewhere classified	721		
 7220	Customer service managers and supervisors	722		
 8111	Food, drink and tobacco process operatives	811		
 8112	Glass and ceramics process operatives	811		
@@ -429,7 +429,7 @@ occupation	name	parent-occupation	start-date	end-date
 8116	Plastics process operatives	811		
 8117	Metal making and treating process operatives	811		
 8118	Electroplaters	811		
-8119	Process operatives n.e.c.	811		
+8119	Process operatives not elsewhere classified	811		
 8121	Paper and wood machine operatives	812		
 8122	Coal mine operatives	812		
 8123	Quarry workers and related operatives	812		
@@ -437,18 +437,18 @@ occupation	name	parent-occupation	start-date	end-date
 8125	Metal working machine operatives	812		
 8126	Water and sewerage plant operatives	812		
 8127	Printing machine assistants	812		
-8129	Plant and machine operatives n.e.c.	812		
+8129	Plant and machine operatives not elsewhere classified	812		
 8131	Assemblers (electrical and electronic products)	813		
 8132	Assemblers (vehicles and metal goods)	813		
 8133	Routine inspectors and testers	813		
 8134	Weighers, graders and sorters	813		
 8135	Tyre, exhaust and windscreen fitters	813		
 8137	Sewing machinists	813		
-8139	Assemblers and routine operatives n.e.c.	813		
+8139	Assemblers and routine operatives not elsewhere classified	813		
 8141	Scaffolders, stagers and riggers	814		
 8142	Road construction operatives	814		
 8143	Rail construction and maintenance operatives	814		
-8149	Construction operatives n.e.c.	814		
+8149	Construction operatives not elsewhere classified	814		
 8211	Large goods vehicle drivers	821		
 8212	Van drivers	821		
 8213	Bus and coach drivers	821		
@@ -457,38 +457,38 @@ occupation	name	parent-occupation	start-date	end-date
 8221	Crane drivers	822		
 8222	Fork-lift truck drivers	822		
 8223	Agricultural machinery drivers	822		
-8229	Mobile machine drivers and operatives n.e.c.	822		
+8229	Mobile machine drivers and operatives not elsewhere classified	822		
 8231	Train and tram drivers	823		
 8232	Marine and waterways transport operatives	823		
 8233	Air transport operatives	823		
 8234	Rail transport operatives	823		
-8239	Other drivers and transport operatives n.e.c.	823		
+8239	Other drivers and transport operatives not elsewhere classified	823		
 9111	Farm workers	911		
 9112	Forestry workers	911		
-9119	Fishing and other elementary agriculture occupations n.e.c.	911		
+9119	Fishing and other elementary agriculture occupations not elsewhere classified	911		
 9120	Elementary construction occupations	912		
 9132	Industrial cleaning process occupations	913		
 9134	Packers, bottlers, canners and fillers	913		
-9139	Elementary process plant occupations n.e.c.	913		
+9139	Elementary process plant occupations not elsewhere classified	913		
 9211	Postal workers, mail sorters, messengers and couriers	921		
-9219	Elementary administration occupations n.e.c.	921		
+9219	Elementary administration occupations not elsewhere classified	921		
 9231	Window cleaners	923		
 9232	Street cleaners	923		
 9233	Cleaners and domestics	923		
 9234	Launderers, dry cleaners and pressers	923		
 9235	Refuse and salvage occupations	923		
 9236	Vehicle valeters and cleaners	923		
-9239	Elementary cleaning occupations n.e.c.	923		
+9239	Elementary cleaning occupations not elsewhere classified	923		
 9241	Security guards and related occupations	924		
 9242	Parking and civil enforcement occupations	924		
 9244	School midday and crossing patrol occupations	924		
-9249	Elementary security occupations n.e.c.	924		
+9249	Elementary security occupations not elsewhere classified	924		
 9251	Shelf fillers	925		
-9259	Elementary sales occupations n.e.c.	925		
+9259	Elementary sales occupations not elsewhere classified	925		
 9260	Elementary storage occupations	926		
 9271	Hospital porters	927		
 9272	Kitchen and catering assistants	927		
 9273	Waiters and waitresses	927		
 9274	Bar staff	927		
 9275	Leisure and theme park attendants	927		
-9279	Other elementary services occupations n.e.c.	927		
+9279	Other elementary services occupations not elsewhere classified	927		
